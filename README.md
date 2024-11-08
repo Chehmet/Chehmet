@@ -1,4 +1,3 @@
-## Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chehmet&theme=nord_bright)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chehmet&theme=nord_bright&total_prs=false)
